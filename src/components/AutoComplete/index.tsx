@@ -58,7 +58,7 @@ function AutoComplete() {
 		<div style={{ position: "relative", maxWidth: 500, margin: "0 auto" }}>
 			<Input
 				autoComplete="off"
-				placeholder="Search postcode..."
+				placeholder="Search postcode, city or location in UK..."
 				aria-label="Search postcode"
 				onChange={handleChange}
 				onFocus={onFocus}
